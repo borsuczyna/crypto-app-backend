@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express-http-proxy": "^1.6.3",
+    "express.js": "^1.0.0",
+    "node-fetch": "^3.3.0",
+    "request": "^2.88.2"
+  }
+}
